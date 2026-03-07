@@ -4,6 +4,11 @@
 >
 > Un assistente AI locale e privacy-first per Telegram, basato su [LM Studio](https://lmstudio.ai) e [qwen-agent](https://github.com/QwenLM/qwen-agent).
 
+
+Note: System prompts are in Italian by default. To use a different language, edit the system_msg strings in ask_agent() and ask_vision() in main_telegram.py
+Nota: i messaggi di sistema sono in italiano per impostazione predefinita. Per utilizzare una lingua diversa, modificare le stringhe system_msg in ask_agent() e ask_vision() in main_telegram.py.
+
+
 ---
 
 ## ✨ Features / Funzionalità
@@ -138,6 +143,7 @@ python main_telegram.py
 | Context window: 25115 token 
 | Offload GPU : 32
 | LM Studio 0.4.2
+
 
 ## 📄 License
 
