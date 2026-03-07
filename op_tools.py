@@ -284,10 +284,16 @@ class FetchUrl(BaseTool):
             extractor.feed(html)
             text = '\n'.join(extractor.chunks)
 
-            # Limit to 8000 chars to stay within model context window
-            # Limita a 8000 chars per restare nel contesto del modello
-            if len(text) > 8000:
-                text = text[:8000] + '...'
+            # Compact multiple blank lines and extra spaces
+            # Compatta righe vuote multiple e spazi in eccesso
+            import re as _re
+            text = _re.sub(r'\n{3,}', '\n\n', text)
+            text = _re.sub(r' {2,}', ' ', text)
+
+            # Limit to 15000 chars to stay within model context window
+            # Limita a 15000 chars per restare nel contesto del modello
+            if len(text) > 10000:
+                text = text[:10000] + '...'
 
             return text if text else "Nessun contenuto testuale trovato. / No text content found."
 
