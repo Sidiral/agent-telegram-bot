@@ -133,6 +133,12 @@ python main_telegram.py
 
 ---
 
+## 🔮 Test Suite
+| RTX 4060ti 16gb
+| Context window: 25115 token 
+| Offload GPU : 32
+| LM Studio 0.4.2
+
 ## 📄 License
 
 MIT
