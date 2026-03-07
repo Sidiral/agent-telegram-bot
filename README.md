@@ -42,8 +42,8 @@
 ### 2. Install / Installazione
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Damikratos/agent-telegram-bot/
+cd agent-telegram-bot
 pip install -r requirements.txt
 ```
 
